@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "f5152d70589c99eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec5d25cc044176ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Servicios de aplicacióñ.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3285795a1e21274f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab3243134857a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6656156d86de01cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d7527081368ba82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21e191d786ebfc70",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d48f48468e6b77b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c39cf417734b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c1f3db6a30a87af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Servicios de aplicacióñ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c485118563dee9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Servicios de aplicacióñ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb9e6441f029c058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d40f2d8eb007d836",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Servicios de aplicacióñ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec5d25cc044176ac",
+  "lastOpenFiles": []
+}
