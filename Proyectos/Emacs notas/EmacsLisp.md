@@ -22,3 +22,6 @@ algunas funciones operan en valores, piden el simbolo en cual operar y no el val
 
 
 (add-to-list 'auto-mude-list 'c'////rs//" . rust -mode)
+
+
+![[emacs key-binding.png]]

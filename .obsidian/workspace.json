@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Notas libro/Psicologia del Dinero.md",
+                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Notas libro/psicologia del dinero/primer resumen.md",
+                "file": "Proyectos/Emacs notas/EmacsLisp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "919a538b7020b813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Emacs notas/EmacsLisp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf97257586bd72aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Emacs notas/notas TMP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Notas libro/psicologia del dinero/primer resumen.md",
+                "file": "Proyectos/Emacs notas/notas TMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Notas libro/psicologia del dinero/primer resumen.md",
+                "file": "Proyectos/Emacs notas/notas TMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Notas libro/psicologia del dinero/primer resumen.md"
+                "file": "Proyectos/Emacs notas/notas TMP.md"
               }
             }
           },
@@ -167,9 +191,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15981043adda138c",
+  "active": "bf97257586bd72aa",
   "lastOpenFiles": [
-    "Ideas/Notas libro/Psicologia del Dinero.md",
-    "Ideas/Notas libro/Método zetelkasket.md"
+    "Proyectos/Emacs notas/EmacsLisp.md",
+    "Proyectos/Emacs notas/Emacs Doom.md",
+    "README.md",
+    "Pasted image 20230105194336.png",
+    "Pasted image 20230105193844.png",
+    "Proyectos/Emacs notas/Images/emacs key-binding.png",
+    "Proyectos/Notas libro/Método zetelkasket.md",
+    "Proyectos/Notas libro/psicologia del dinero/primer resumen.md",
+    "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md"
   ]
 }
