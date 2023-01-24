@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b242ad4bf8c262",
+        "id": "ef0ea0513f30e523",
         "type": "tabs",
         "children": [
           {
-            "id": "8675a0db2bec0cce",
+            "id": "0418d68a13ab3495",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "15981043adda138c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Emacs notas/EmacsLisp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "919a538b7020b813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Emacs notas/EmacsLisp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf97257586bd72aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Emacs notas/notas TMP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde85bb881151bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp.md",
+                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp.md",
+                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmp.md"
+                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md"
               }
             }
           },
@@ -203,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dde85bb881151bc8",
+  "active": "0418d68a13ab3495",
   "lastOpenFiles": [
+    "Ideas/comandos laravel.md",
+    "README.md",
+    "tmp.md",
+    "Proyectos/Notas libro/psicologia del dinero/primer resumen.md",
+    "Proyectos/Notas libro/psicologia del dinero/segundo resumen.md",
+    "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
     "Proyectos/Emacs notas/notas TMP.md",
     "Proyectos/Emacs notas/EmacsLisp.md",
     "Proyectos/Emacs notas/Emacs Doom.md",
-    "README.md",
-    "Pasted image 20230105194336.png",
-    "Pasted image 20230105193844.png",
-    "Proyectos/Emacs notas/Images/emacs key-binding.png",
-    "Proyectos/Notas libro/Método zetelkasket.md",
-    "Proyectos/Notas libro/psicologia del dinero/primer resumen.md",
-    "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md"
+    "Pasted image 20230105194336.png"
   ]
 }
