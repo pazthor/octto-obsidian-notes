@@ -4,16 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0ea0513f30e523",
+        "id": "9aa687e77354c762",
         "type": "tabs",
         "children": [
           {
-            "id": "0418d68a13ab3495",
+            "id": "eb2712aa6547434b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Proyectos/Terminal/notas TMP.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "abb856383b9344e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
+                "file": "Proyectos/Notas libro/Designing Data-intensive Application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cb872a603276201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/AWS Esentials/Course AWS Architect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d93c832e212c8e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,17 +185,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0418d68a13ab3495",
+  "active": "eb2712aa6547434b",
   "lastOpenFiles": [
+    "comandos para artisan lando dusk.md",
     "Ideas/comandos laravel.md",
+    "NotasDeSoftware/notas-arquitectura-DDD/Servicios de aplicacióñ.md",
+    "Proyectos/AWS Esentials/Course AWS Architect.md",
+    "Proyectos/Interview/Algoritmos.md",
+    "Proyectos/Interview/Recomendacion phone interview.md",
+    "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
+    "Proyectos/Notas libro/psicologia del dinero/segundo resumen.md",
+    "Proyectos/Notas libro/psicologia del dinero/primer resumen.md",
+    "Proyectos/Notas libro/Confidence.md",
+    "Proyectos/Notas libro/Designing Data-intensive Application.md",
+    "Proyectos/Notas libro/La Fase libro auspiciado por shelldandy.md",
+    "Proyectos/Notas libro/Método zetelkasket.md",
+    "Proyectos/software/lando tutorial.md",
+    "Proyectos/Terminal/Images/emacs key-binding.png",
+    "Proyectos/Terminal/color.md",
+    "Proyectos/Terminal/Emacs Doom.md",
+    "Proyectos/Terminal/EmacsLisp.md",
+    "Proyectos/Terminal/notas TMP.md",
+    "Proyectos/AWS Courses 2023.md",
+    "Proyectos/Cuanto cobrar como freelance -gringo.md",
+    "Proyectos/designing-data-intensive-applications.md",
+    "Proyectos/ingles class.md",
+    "Ejecutar Laravel en landon.md",
+    "lando.yml.md",
     "README.md",
     "tmp.md",
-    "Proyectos/Notas libro/psicologia del dinero/primer resumen.md",
-    "Proyectos/Notas libro/psicologia del dinero/segundo resumen.md",
-    "Proyectos/Notas libro/psicologia del dinero/Psicologia del Dinero.md",
-    "Proyectos/Emacs notas/notas TMP.md",
-    "Proyectos/Emacs notas/EmacsLisp.md",
-    "Proyectos/Emacs notas/Emacs Doom.md",
-    "Pasted image 20230105194336.png"
+    "Pasted image 20230414110529.png",
+    "Proyectos/Interview",
+    "Pasted image 20230209102907.png"
   ]
 }
